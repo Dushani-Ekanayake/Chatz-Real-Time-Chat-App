@@ -24,7 +24,7 @@ Frontend : - https://chatz-real-time-chat-app-iuse.vercel.app
 - Online users indicator
 - Profile picture upload with Cloudinary
 - User profile update
-- Dark/light theme support
+- Different themes support
 
 ## Tech Stack
 

@@ -3,6 +3,12 @@
 Chatz is a full-stack real-time chat application built with React, Node.js, Express, MongoDB, and Socket.IO. It includes user authentication, live messaging, online presence, profile updates, and image sharing.
 
 ## Screenshots
+<img width="1908" height="1042" alt="image" src="https://github.com/user-attachments/assets/1dadac4a-06ae-4a0e-9418-f0d922e83281" />
+<img width="1905" height="1055" alt="image" src="https://github.com/user-attachments/assets/d00c9ecd-2728-4560-9c68-e1cf812a80b1" />
+<img width="1907" height="1031" alt="image" src="https://github.com/user-attachments/assets/de2e2f32-01cb-47f1-afe9-69aaea59137a" />
+<img width="1906" height="1046" alt="image" src="https://github.com/user-attachments/assets/3255436a-a7bd-4e24-a1c1-3451c0df3d5a" />
+<img width="1913" height="1037" alt="image" src="https://github.com/user-attachments/assets/7671390b-b636-426a-b45f-bb4fa6ba54a0" />
+
 
 
 ## Features

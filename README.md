@@ -3,7 +3,7 @@
 Chatz is a full-stack real-time chat application built with React, Node.js, Express, MongoDB, and Socket.IO. It includes user authentication, live messaging, online presence, profile updates, and image sharing.
 
 ## Deployment 
-Frontend : - https://chatz-real-time-chat-app-iuse.vercel.app/login
+Frontend : - https://chatz-real-time-chat-app-iuse.vercel.app
 
 ## Screenshots
 <img width="1908" height="1042" alt="image" src="https://github.com/user-attachments/assets/1dadac4a-06ae-4a0e-9418-f0d922e83281" />
